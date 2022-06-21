@@ -1,1 +1,1 @@
-# alx-backend-javascript project
+# alx-backend-javascript
