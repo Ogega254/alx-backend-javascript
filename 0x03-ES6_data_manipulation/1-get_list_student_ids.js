@@ -1,9 +1,11 @@
-/* eslint-disable */
-export default function getListStudentIds(arrayArg) {
-  if (!Array.isArray(arrayArg)) {
-      return [];
+function getListStudentIds(students) {
+  if (!Array.isArray(students)) {
+    return [];
   }
-  return arrayArg.map((item) => {
-      return item.id;
-  });
-};
+
+  const ids = students.map((item) => item.id);
+
+  return ids;
+}
+
+export default getListStudentIds;
