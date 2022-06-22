@@ -1,11 +1,4 @@
-function getStudentsByLocation(students, city) {
-  if (!Array.isArray(students)) {
-    return [];
-  }
-
-  const result = students.filter((item) => item.location === city);
-
-  return result;
-}
-
-export default getStudentsByLocation;
+/* Eslint-disabled  */
+export default function getStudentsByLocation(arrayItem, city) {
+  return arrayItem.filter((item) => (item.location === city)); 
+};
