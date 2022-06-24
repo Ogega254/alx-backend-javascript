@@ -24,8 +24,6 @@
 #### Configuration Files
 * Please use these files for the following tasks
 package.json
-document.getElementById('package.json').style.color = 'red';
-
 * Click to show/hide file contents
 .eslintrc.js
 * Click to show/hide file contents
