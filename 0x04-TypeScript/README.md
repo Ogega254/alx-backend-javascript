@@ -28,10 +28,9 @@
 * The Typescript compiler should not show any warning or error when compiling your code
 
 ## Work
-
-** Task 0
-** Task 1
-** Task 2
-** Task 3
-** Task 4
-** Task 5
+# Task 0
+# Task 1
+# Task 2
+# Task 3
+# Task 4
+# Task 5
