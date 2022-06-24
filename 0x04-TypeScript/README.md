@@ -26,3 +26,12 @@
 * A README.md file, at the root of the folder of the project, is mandatory
 * Your code should use the ts extension when possible
 * The Typescript compiler should not show any warning or error when compiling your code
+
+## Work
+
+** Task 0
+** Task 1
+** Task 2
+** Task 3
+** Task 4
+** Task 5
