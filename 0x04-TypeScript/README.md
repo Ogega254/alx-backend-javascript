@@ -23,7 +23,7 @@
 
 #### Configuration Files
 * Please use these files for the following tasks
-* Document.getElementById('package.json','.eslintrc.js','tsconfig.json','webpack.config.js').style.color = 'red';
+document.getElementById('package.json','.eslintrc.js','tsconfig.json','webpack.config.js').style.color = 'red';
 package.json .eslintrc.js tsconfig.json webpack.config.js
 * Click to show/hide file contents
 .eslintrc.js
